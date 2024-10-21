@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "tsx": "^4.19.1",
-    "xsuite": "^0.0.87"
+    "xsuite": "^0.0.88"
   }
 }
